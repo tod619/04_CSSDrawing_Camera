@@ -5,3 +5,12 @@ body {
     justify-content: center;
 }
 
+.camera {
+    width: 205px;
+    height: 155px;
+    background-color: #d6d6d6;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px -13px #000;
+    position: relative;
+
+}
